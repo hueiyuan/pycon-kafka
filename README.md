@@ -22,12 +22,12 @@ SCHEMA_REGISTRY_PASSWORD=your-schema-registry-password
 
 ### Step5. Execute and emulate producer of the kafka.
 ```
-python3 producer_entrypoint.py
+python3 producer_entrypoint.py --schema-registry-endpoint http://schema-registry-endpoint.xxx.com:8080 --kafka-brokers broker1,broker2
 ```
 
 ### Step6. Execute and emulate consumer of the kafka.
 ```
-python3 consumer_entrypoint.py
+python3 consumer_entrypoint.py --schema-registry-endpoint http://schema-registry-endpoint.xxx.com:8080 --kafka-brokers broker1,broker2 --consumer-group-id your-consumer-group-id
 ```
 
 ## What is the Next?
