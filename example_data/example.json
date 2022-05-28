@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Mars",
+        "sex": "male",
+        "phone_number": "09876544331"
+    },
+    {
+        "name": "John",
+        "sex": "male",
+        "phone_number": "09876544332"
+    },
+    {
+        "name": "Rex",
+        "sex": "male",
+        "phone_number": "09876544333",
+        "interest": "guitar"
+    }
+]
