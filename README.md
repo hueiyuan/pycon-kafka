@@ -30,7 +30,7 @@ python3 producer_entrypoint.py
 python3 consumer_entrypoint.py
 ```
 
-## Next
+## What is the Next?
 Since the repo is a basic repo and provide a simple data and one topic of kakfa to emulate. 
 If you are familiar with operate and logics about producer, consumer and schema registry. You can fork this repo and change **dynamic data** and **multiple topics** to ingest or consume data to kafka with schema registry.
 
