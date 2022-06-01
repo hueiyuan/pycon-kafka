@@ -38,4 +38,5 @@ If you are familiar with operate and logics about producer, consumer and schema 
 1. [Schema Registry Overview](https://docs.confluent.io/platform/current/schema-registry/index.html)
 2. [Schema Registry Download and install](https://docs.confluent.io/platform/current/schema-registry/installation/index.html)
 3. [confluent kafka client in python](https://github.com/confluentinc/confluent-kafka-python)
+4. [librdkafka configuration](https://github.com/edenhill/librdkafka/blob/master/CONFIGURATION.md)
 
